@@ -6,12 +6,12 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=francescotersi&show_icons=true&theme=vue-dark&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=francescotersi&theme=vue-dark" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=francescotersi&show_icons=true&bg_color=E8DCC4&title_color=4A2E15&text_color=2C1A0E&icon_color=8B1A1A&border_color=8B5A2B&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=francescotersi&background=E8DCC4&title_color=4A2E15&text_color=2C1A0E&icon_color=8B1A1A&border=8B5A2B&ring=8B1A1A&fire=8B1A1A&currStreakNum=2C1A0E&sideNums=2C1A0E&currStreakLabel=4A2E15&sideLabels=4A2E15&dates=2C1A0E" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotersi&layout=compact&theme=vue-dark" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotersi&layout=compact&bg_color=E8DCC4&title_color=4A2E15&text_color=2C1A0E&icon_color=8B1A1A&border_color=8B5A2B" width="48%" />
 
 <br><br>
 
