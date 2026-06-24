@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotersi&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotersi&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="48%" />
 
 <br><br>
 
@@ -52,5 +52,6 @@
 </a>
 <br><br>
 <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-365&logoColor=white" alt="Microsoft 365" />
+<img src="https://img.shields.io/badge/Makefile-008FBA?style=flat-square&logo=gnu&logoColor=white" alt="Makefile" />
 
 </div>
