@@ -9,6 +9,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=francescotersi&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescotersi&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotersi&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+
 <br><br>
 
 ## 42 School
