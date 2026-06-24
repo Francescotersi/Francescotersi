@@ -1,39 +1,40 @@
 <div align="center">
 
-## 📊 Le mie Statistiche GitHub
+### Welcome to Francescotersi's GitHub profile!
+
+<br>
+
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=francescotersi&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=francescotersi&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
 
-<!-- Esempio WakaTime per le ore di codice (richiede configurazione Action) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=francescotersi&theme=transparent&hide_border=true" width="48%" /> -->
-
 <br><br>
 
-## 🛠️ Il mio Stack Tecnologico
+## Tech Stack
 
-### 💻 Linguaggi
+### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,php,html,css,bash" alt="Linguaggi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,php,html,css,bash" alt="Languages" />
 </a>
 
 <br>
 
-### 🚀 Framework & Librerie
+### Frameworks & Libraries
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vue,react,tailwind,prisma" alt="Frameworks" />
 </a>
 
 <br>
 
-### ⚙️ Sistemi Operativi
+### Operating Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,windows" alt="OS" />
 </a>
 
 <br>
 
-### 🔧 Strumenti & Piattaforme
+### Tools & Platforms
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,notion" alt="Tools" />
 </a>
