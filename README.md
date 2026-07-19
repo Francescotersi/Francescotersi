@@ -1,9 +1,5 @@
 <div align="center">
 
-### Welcome to Francescotersi's GitHub profile!
-
-<br>
-
 ## Tech Stack
 
 ### Languages
