@@ -37,12 +37,8 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=francescotersi&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="38%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=francescotersi&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="38%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescotersi&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="33%" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+<img src="https://komarev.com/ghpvc/?username=francescotersi&style=flat-square&color=58A6FF" alt="Profile views" />
 
 <br><br>
 
